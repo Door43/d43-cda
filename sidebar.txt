@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cda:home|Door43 (cda)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cda|d43-cda repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cda/archive/master.zip|d43-cda.zip]]
+
+**Recent Changes**
+{{changes>ns = cda}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cda|Ethnologue data]]
+
